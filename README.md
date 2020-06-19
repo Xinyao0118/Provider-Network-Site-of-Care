@@ -29,7 +29,15 @@ There are softwares that will be used:
 - SAS : Geocoding
 - Tableau : Visualization
 
+__*1.Extract the taxonomy code of acuate general hospital and ASC*__
 
+Taxonomy code are designed to categorize the type, classification, and/or specialization of health care providers. 
+
+__*2.Geocode the providers by street info*__
+
+__*3.filter the hospital and asc connect with distance smaller than 15 mile*__
+
+The __distance.xlsx__ in data is the final result which can also help check the accessbility of colonoscopy in NY state. 
 
 ##Result
 
