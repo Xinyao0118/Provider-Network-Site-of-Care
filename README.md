@@ -37,7 +37,7 @@ __*2.Geocode the providers by street info*__
 
 __*3.filter the hospital and asc connect with distance smaller than 15 mile*__
 
-The __distance.xlsx__ in data is the final result which can also help check the accessbility of colonoscopy in NY state. 
+The __distance.xlsx__ is the final result which can also help check the accessbility of colonoscopy in NY state. 
 
 ## Result
 
